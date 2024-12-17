@@ -1,9 +1,0 @@
-# Ignore node_modules
-node_modules/
-
-# Ignore package-lock.json and package.json (if desired)
-package.json
-package-lock.json
-
-# Ignore Visual Studio Code settings
-.vscode/
